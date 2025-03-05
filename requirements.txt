@@ -1,0 +1,4 @@
+pytorch
+torch_scatter
+scipy
+loguru
